@@ -6,7 +6,7 @@
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-orange)
 ![Grafana](https://img.shields.io/badge/Visualization-Grafana-yellow)
 
-## 📊 Grafana Dashboard Preview
+## Grafana Dashboard Preview
 
 <img src="screenshots/grafana.png" width="800"/>
 

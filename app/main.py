@@ -32,6 +32,10 @@ def get_data():
 
     return {"data": "Here is your data"}
 
+# @app.get("/metrics")
+# def metrics():
+#     return generate_latest()
+
 @app.get("/metrics")
 def metrics():
     return Response(generate_latest(), media_type="text/plain")
