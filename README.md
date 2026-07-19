@@ -149,4 +149,3 @@ minikube service grafana-service
 - Add persistent storage for Grafana
 - Deploy on cloud (Azure AKS / AWS EKS)
 - Implement alerting (Prometheus Alertmanager)
-- Use Helm for deployment automation
